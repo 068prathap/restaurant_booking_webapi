@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uginYlWNsHupQ2ALeJWYd1Gp95WaBY6QGlZ5W6xH2Q4=",
+  "Source": "RestaurantBookingWebApi",
+  "BasePath": "_content/RestaurantBookingWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
